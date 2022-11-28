@@ -1,0 +1,7 @@
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.exe.config
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.exe
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\bin\Debug\LetterToSelf.pdb
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.csprojAssemblyReference.cache
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.csproj.CoreCompileInputs.cache
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.exe
+C:\Users\alex_000\source\repos\LetterToSelf\LetterToSelf\obj\Debug\LetterToSelf.pdb
